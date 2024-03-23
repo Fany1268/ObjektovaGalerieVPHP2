@@ -1,0 +1,43 @@
+.galerie img {
+  width: 50;
+  float: left;
+}
+
+@media screen and (max-width: 700px) {
+  .galerie img {
+    width: 100%;
+    float: none;
+  }
+}
+
+html {
+ 
+    background: #414042;
+}
+
+.kontakt-tlacitko {
+  background: #e0a211;
+  color: white;
+  font-size: 1.9em;
+  text-transform: uppercase;
+  text-decoration: none;
+  padding: 10px 20px;
+  border-radius: 20px;
+
+
+
+}
+
+
+
+
+
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/ClientSide/css.css to edit this template
+*/
+/* 
+    Created on : 5. 2. 2024, 13:20:57
+    Author     : Domča
+*/
+
